@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Talking Box",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-01T08:03:06.891488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/01_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/02_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talking Box",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/03_Talking_Box_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talking Box - Dirty Pop Remix",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/04_Talking_Box_-_Dirty_Pop_Remix_WurtS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talking Box",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_Talking_Box_WurtS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_02_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_03_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_04_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "talking box",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_05_talking_box_WurtS.txt"
+    }
+  ]
+}
